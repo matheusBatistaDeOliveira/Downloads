@@ -166,9 +166,5 @@ public class Service {
         return ResponseEntity.ok(jdbcTemplate.queryForMap(sql, email));//, email));
     }
 }
-<<<<<<< HEAD
 
-Batatinha
-=======
 Batata é ótima
->>>>>>> bc39be4f7af0ed092e6e0b9d39aa5111ec189529
