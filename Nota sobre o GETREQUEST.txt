@@ -166,5 +166,3 @@ public class Service {
         return ResponseEntity.ok(jdbcTemplate.queryForMap(sql, email));//, email));
     }
 }
-
-phonk
