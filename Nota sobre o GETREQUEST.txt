@@ -166,3 +166,4 @@ public class Service {
         return ResponseEntity.ok(jdbcTemplate.queryForMap(sql, email));//, email));
     }
 }
+Batata é ótima
